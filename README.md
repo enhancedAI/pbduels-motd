@@ -1,9 +1,6 @@
 # Welcome to **Phoneburnia Beginner Friendly Duels**
-
-<a id="pbduels.com">https://pbduels.com</>
-
-<a id="Discord">https://discord.gg/3Ah2WGk8dA</>
-
+[pbduels.com](https://pbduels.com)
+[Discord](https://discord.gg/3Ah2WGk8dA)
 **Rules**
 1. Be respectful towards others.
 - Please use your best judgment.
