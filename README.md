@@ -1,7 +1,7 @@
 # Welcome to **Phoneburnia Beginner Friendly Duels**
 
-<a href="https://pbduels.com">Website</a>  
-<a href="https://discord.gg/3Ah2WGk8dA">Discord</a>
+<a id="Website">https://pbduels.com</>  
+<a id="Discord">https://discord.gg/3Ah2WGk8dA</>
 
 **Rules**  
 1. Be respectful towards others.
@@ -22,7 +22,7 @@
 3. How do I get better at the game?
 - Practice. Otherwise we offer coaching through discord.
 4. Are you accepting donations?
-- No.
+- Not at this time.
 5. How do I report an Admin/Mod/Player?
 - Create a ticket on discord via ModMail.
 - Provide any evidence within the ticket.
