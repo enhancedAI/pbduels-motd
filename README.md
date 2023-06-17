@@ -1,18 +1,18 @@
 # Welcome to **Phoneburnia Beginner Friendly Duels**
 
-[pbduels.com](https://pbduels.com)
-[Discord](https://discord.gg/3Ah2WGk8dA)
+<a href="https://pbduels.com">Website</a>
+<a href="https://discord.gg/3Ah2WGk8dA">Discord</a>
 
-**Rules**
+**Rules**  
 1. Be respectful towards others.
 - Please use your best judgment.
 2. No RDM/Revenge RDM.
 3. No racism/homophobia.
 4. Follow general duel etiquette.
 - Do not quickstart or heal mid duel.
-5. Alt accounts/smurfs are allowed, ego duelling is not.
+5. Alt accounts/smurfs are allowed, ego duelling is not.  
 
-**FAQ**
+**FAQ**  
 1. How can I become VIP?
 - Be nice to your fellow players and don't be a jerk. We'll notice.
 2. How can I become Mod?
