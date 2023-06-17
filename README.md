@@ -1,6 +1,6 @@
 # Welcome to **Phoneburnia Beginner Friendly Duels**
 
-<a href="https://pbduels.com">Website</a>
+<a href="https://pbduels.com">Website</a>  
 <a href="https://discord.gg/3Ah2WGk8dA">Discord</a>
 
 **Rules**  
