@@ -2,7 +2,7 @@
 
 <a id="pbduels.com">https://pbduels.com</>
 
-<a id="Discord">(https://discord.gg/3Ah2WGk8dA)</>
+<a id="Discord">https://discord.gg/3Ah2WGk8dA</>
 
 **Rules**
 1. Be respectful towards others.
