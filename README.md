@@ -15,6 +15,7 @@
 **FAQ**  
 1. How can I become VIP?
 - Be nice to your fellow players and don't be a jerk. We'll notice.
+- Do not beg for ranks in public chats.
 2. How can I become Mod?
 - Mods are typically selected via discord applications.
 - VIP is a prerequisite.
